@@ -19,7 +19,6 @@ h1 {
   background-color: #eee;
 }
 #back {
-  /* 「トップへ戻る」ボタンはつねに同じ位置（ページ右下20pxの位置）に表示されるようになります。 */
   position: fixed;
   right: 20px;
   bottom: 20px;
